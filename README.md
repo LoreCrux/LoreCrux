@@ -1,17 +1,44 @@
-<h1>Hi, I'm Tyler! <br/><a href="https://github.com/LoreCrux">Programmer</a>, <a href="https://www.linkedin.com/in/tylerdurham208/">QA/SDET Professional</a>
+Tyler Durham
+DevOps / Solution Architecture | Cloud Enthusiast
 
-<h2>👨‍💻 Software Development Projects:</h2>
+---
 
-- <b><a href=https://www.tyleradurham.com/>Cloud Resume Project(AWS)</a></b>
+🔭 I’m currently working on:
 
-<h2> Certifications</h2>
-- A+
-- Network+
-- Project+
-- ITIL Foundation
+- Building a scalable infrastructure for **Personal Site** using Terraform + AWS
+- Automating CI/CD pipelines for Python microservices with GitHub Actions
+- Learning Kubernetes & setting up an EKS cluster with monitoring
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="TylerDurham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+🛠 Skills & Tools
 
-[linkedin]: https://linkedin.com/in/tylerdurham208
+| Category            | Tools / Technologies |
+|---------------------|----------------------|
+| Cloud               | AWS (EC2, S3, Lambda, IaC), (maybe choose GCP or Azure too) |
+| Infrastructure IaC  | Terraform, CloudFormation, maybe Pulumi |
+| Containerization    | Docker, Kubernetes |
+| CI/CD               | GitHub Actions, Jenkins, etc. |
+| Monitoring & Logging| CloudWatch / Datadog / Prometheus / ELK etc. |
+| Security / Best Practices | IAM, policies, least privilege, secrets management, etc. |
+
+---
+
+📂 Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| Personal Site | Deployed resume site + infrastructure on AWS; includes CI/CD / monitoring / backend APIs etc. | Terraform, GitHub Actions, AWS S3, CloudFront, Route53, Docker |
+
+---
+
+🎓 Certifications
+
+- A+, Network+, Project+, ITIL Foundation  
+- *[Future]* AWS Solutions Architect – Associate, Professional
+
+---
+
+📬 Connect with me
+
+[[LinkedIn](https://www.linkedin.com/in/tylerdurham208/)] • [Your Email] • [Personal Site](www.tyleradurham.com)]  
