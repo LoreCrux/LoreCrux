@@ -41,4 +41,4 @@ DevOps / Solution Architecture | Cloud Enthusiast
 
 📬 Connect with me
 
-[[LinkedIn](https://www.linkedin.com/in/tylerdurham208/)] • [[Personal Site](www.tyleradurham.com)]  
+[[LinkedIn](https://www.linkedin.com/in/tylerdurham208/)] • [[Personal Site](https://www.tyleradurham.com)]
