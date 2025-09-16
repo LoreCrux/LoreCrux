@@ -34,7 +34,7 @@ DevOps / Solution Architecture | Cloud Enthusiast
 
 🎓 Certifications
 
-- A+, Network+, Project+, ITIL Foundation  
+- A+, Network+, Project+, ITIL Foundation, AWS Cloud Practitioner  
 - *[Future]* AWS Solutions Architect – Associate, Professional
 
 ---
