@@ -17,9 +17,9 @@ DevOps / Solution Architecture | Cloud Enthusiast
 |---------------------|----------------------|
 | Cloud               | AWS (EC2, S3, Lambda, IaC), (maybe choose GCP or Azure too) |
 | Infrastructure IaC  | Terraform, CloudFormation, maybe Pulumi |
-| Containerization    | Docker, Kubernetes |
-| CI/CD               | GitHub Actions, Jenkins, etc. |
-| Monitoring & Logging| CloudWatch / Datadog / Prometheus / ELK etc. |
+| Containerization/Orchestration | Docker, Kubernetes |
+| CI/CD               | GitHub Actions, GitLab, etc. |
+| Monitoring & Logging| CloudWatch / Datadog / Grafana
 | Security / Best Practices | IAM, policies, least privilege, secrets management, etc. |
 
 ---
@@ -28,7 +28,7 @@ DevOps / Solution Architecture | Cloud Enthusiast
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| Personal Site | Deployed resume site + infrastructure on AWS; includes CI/CD / monitoring / backend APIs etc. | Terraform, GitHub Actions, AWS S3, CloudFront, Route53, Docker |
+| Personal Site | Deployed resume site + infrastructure on AWS; includes CI/CD / monitoring / backend APIs etc. | React, Typescript, Terraform, GitHub Actions, AWS S3, CloudFront, Route53, Docker |
 
 ---
 
